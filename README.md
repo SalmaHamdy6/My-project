@@ -1,1 +1,1 @@
-# Our project on Git
+# Infinity Devs
