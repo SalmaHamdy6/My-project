@@ -21,3 +21,5 @@ An intelligent system for managing banking operations using a programming langua
 C++
 
 ![Banking System](WhatsApp%20Image%202025-02-21%20at%201.58.34%20AM.jpeg)
+
+<img src="WhatsApp%20Image%202025-02-21%20at%201.58.34%20AM.jpeg" alt="Banking System" width="100"/>
