@@ -26,4 +26,4 @@ The AI Banking System aims to enhance banking operations through artificial inte
 
 C++
 
-<img src="WhatsApp%20Image%202025-02-21%20at%201.58.34%20AM.jpeg" alt="Banking System" width="500"/>
+<img src="WhatsApp%20Image%202025-02-21%20at%201.58.34%20AM.jpeg" alt="Banking System" width="300"/>
