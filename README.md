@@ -19,3 +19,5 @@ An intelligent system for managing banking operations using a programming langua
 🔧 Requirements
 
 C++
+
+![Banking System](WhatsApp Image 2025-02-21 at 1.58.34 AM.jpeg)
