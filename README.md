@@ -3,7 +3,7 @@
 
 📌 Project Idea
 
-The *AI Banking System aims to enhance banking operations through artificial intelligence, facilitating financial services and reducing human errors. The system relies on **programming* for banking data analysis, making it more efficient and secure.
+The AI Banking System aims to enhance banking operations through artificial intelligence, facilitating financial services and reducing human errors. The system relies on **programming* for banking data analysis, making it more efficient and secure.
 
 ✨ *Key Features:
 
