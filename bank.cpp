@@ -18,6 +18,7 @@ struct clients {
 
 clients client[100];
 
+
 void Process() {
     string choice3, index, password0;
     int u = 1, x; // u: password attempts, x: converted client number
@@ -204,6 +205,7 @@ void Process() {
                 // Password verification (3 attempts)
                 while (u <= 3) {
                     if (password0 == client[x - 1].password1) {
+                        cout << endl;
                         cout << "Your current balance is: " << client[x - 1].balance<<"$" << endl;
                         cout << "Enter your deposit amount: ";
                         cin >> deposit;
@@ -211,7 +213,7 @@ void Process() {
                         balance = stoi(client[x - 1].balance);
                         balance += deposit;
                         client[x - 1].balance = to_string(balance);
-                        
+                        cout << endl;
                         cout << "Your new balance is: " << client[x - 1].balance << "$" << endl;
                         cout << "******\n";
                         er = 1;
@@ -227,6 +229,7 @@ void Process() {
                 // If user attemts failed
                 if (er == 0) {
                     cout << "You have reached the limit, please check your data.\n";
+                    cout << endl;
                 }
                 s =1;
                 break;
